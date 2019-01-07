@@ -2,7 +2,7 @@
 <html>
 <body bgcolor style="background-color:#FF5733">
 <head>
-	<title>Javascript Activity 1 - [YOUR NAME HERE]</title>
+	<title>Javascript Activity 1 - [HANZEl]</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 	<meta charset="utf-8">
@@ -48,11 +48,11 @@
 		 document.getElementById('answer').innerHTML=total;
 		 if (isNaN(Value1))
 {
-  document.getElementById("answer").innerHTML = "Syntax Error, wakay uyab";
+  document.getElementById("answer").innerHTML = Syntax Error
 }
 if (isNaN(Value2))
 {
-  document.getElementById("answer").innerHTML = "Syntax Error, wakay uyab";
+  document.getElementById("answer").innerHTML = Syntax Error
 }
 	}
 	function subtract()
@@ -65,11 +65,11 @@ if (isNaN(Value2))
 		 document.getElementById('answer').innerHTML=total;
 		 if (isNaN(Value1))
 {
-  document.getElementById("answer").innerHTML = "Syntax Error, wakay uyab";
+  document.getElementById("answer").innerHTML = Syntax Error
 }
 if (isNaN(Value2))
 {
-  document.getElementById("answer").innerHTML = "Syntax Error, wakay uyab";
+  document.getElementById("answer").innerHTML = Syntax Error
 }
 	}
 	function multiply()
@@ -82,11 +82,11 @@ if (isNaN(Value2))
 		 document.getElementById('answer').innerHTML=total;
 		 if (isNaN(Value1))
 {
-  document.getElementById("answer").innerHTML = "Syntax Error, wakay uyab";
+  document.getElementById("answer").innerHTML = Syntax Error
 }
 if (isNaN(Value2))
 {
-  document.getElementById("answer").innerHTML = "Syntax Error, wakay uyab";
+  document.getElementById("answer").innerHTML = Syntax Error
 }
 	}
 	function divide()
@@ -99,11 +99,11 @@ if (isNaN(Value2))
 		 document.getElementById('answer').innerHTML=total;
 		 if (isNaN(Value1))
 {
-  document.getElementById("answer").innerHTML = "Syntax Error, wakay uyab";
+  document.getElementById("answer").innerHTML = Syntax Error
 }
 if (isNaN(Value2))
 {
-  document.getElementById("answer").innerHTML = "Syntax Error, wakay uyab";
+  document.getElementById("answer").innerHTML = Syntax Error
 }
 	}
 	
